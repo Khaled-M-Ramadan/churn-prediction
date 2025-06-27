@@ -5,7 +5,7 @@ This was followed by a simple descriptive analysis to study the features and the
 We then created two prediction models, each in two forms: a normal image and an image, using RandomizedSearchCV. Based on the results of several metrics, we selected the logistic regression model with RandomizedSearchCV as the most appropriate model among the tested models.
 Based on the above, we reached the following recommendations:
 
-#Recommendations
+# Recommendations
 
 1- Focus on customer tenure, total charges, and monthly charges:
 
